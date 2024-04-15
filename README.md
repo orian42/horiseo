@@ -6,7 +6,7 @@ I was given the assignment of refracting the code for the Horiseo home page to m
 
 ## Usage
 
-To view the webpage, navigate to [orian42.github.io/horiseo/](orian42.github.io/horiseo/)
+To view the webpage, navigate to [https://orian42.github.io/horiseo/](https://orian42.github.io/horiseo/)
 
 The webpage is to be viewed by my cohort instructors and fellow classmates.  This webpage is not to be used in a "real world" scenario as it is only a training exercise.  No "real world" business or entity should be inferred by this webpage.
 
