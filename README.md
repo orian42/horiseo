@@ -6,7 +6,7 @@ I was given the assignment of refracting the code for the Horiseo home page to m
 
 ## Usage
 
-The webpage is to be viewed by my cohort instructors and fellow classmates.  This webpage is not to be used in a "real world" scenario as it is only a training exercise.  No real world buisness or entity should be inferred by this webpage.
+The webpage is to be viewed by my cohort instructors and fellow classmates.  This webpage is not to be used in a "real world" scenario as it is only a training exercise.  No "real world" business or entity should be inferred by this webpage.
 
 ## Credits
 
@@ -14,4 +14,4 @@ The initial code was provided by my Bootcamp instructors.  The template for this
 
 ## License
 
-MIT License
+Please refer to the LICENSE in the repo.
