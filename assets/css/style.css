@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Reordered the formatting of the anchor and paragraph elements higher in the stylesheet*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -69,7 +70,7 @@ p {
     margin-left: 25px;
 }
 
-/*Renamed this class from the old name to better identify what would be formatted.  Reordered this formatting further up the stylesheet to coincide with the order of the sections in the html file.*/
+/*Renamed this class from the old name to better identify what would be formatted.  Reordered this class of formatting further up the stylesheet to coincide with the order of the sections in the html file.*/
 .left-block {
     width: 75%;
     display: inline-block;
@@ -86,11 +87,11 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*Removed different classes that were duplicated to be used for different sections.  Left one to be the format for all.*/
 .left-block-section img {
     max-height: 200px;
 }
-
+/*Removed different classes that were duplicated to be used for different sections.  Left one to be the format for all.*/
 .left-block-section h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -113,12 +114,12 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*Removed different classes that were duplicated to be used for different sections.  Left one to be the format for all.*/
 .right-block-section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*Removed different classes that were duplicated to be used for different sections.  Left one to be the format for all.*/
 .right-block-section img {
     display: block;
     margin: 10px auto;
